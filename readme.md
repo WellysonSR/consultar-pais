@@ -1,4 +1,5 @@
 🌍 Consulta de Países - Delphi
+
 Um aplicativo desenvolvido em Delphi (VCL) que consome a API REST Rest Countries para obter informações detalhadas sobre países, como nome oficial, capital, região, população e moeda.
 
 O projeto foi refatorado para seguir boas práticas de programação, utilizando a separação de responsabilidades (camadas Model e Service).
